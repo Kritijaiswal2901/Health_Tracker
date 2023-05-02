@@ -46,7 +46,6 @@ class StepDetectorService : Service(), SensorEventListener {
     }
 
     override fun onSensorChanged(p0: SensorEvent?) {
-        Toast.makeText(this, "On Sensor Changed" + p0!!.values[0].roundToInt(), Toast.LENGTH_SHORT).show()
         if (PrefsHelper.getString("TodayDate") != GeneralHelper.getToadyDate()) {
             PrefsHelper.putInt("Steps", p0!!.values[0].roundToInt())
             PrefsHelper.putString("TodayDate", GeneralHelper.getToadyDate())

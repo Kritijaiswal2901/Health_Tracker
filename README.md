@@ -1,23 +1,25 @@
-# FitIndia
-Hackthon Project
-https://drive.google.com/file/d/1hW04EAhE-KX22kfOCHv4GKkwypN2evcR/view
+# Health Tracker Project
+https://drive.google.com/file/d/1xw107i66KoLxjvkLoeJ5oL9tFwJyfTkp/view
 
 # Technology/language/tools Used 
  - firebase 
  - kotlin
- - java
  - android studio
 
 # Screenshots
 
-![](Screenshots/ss51.jpeg)
+![](Screenshots/s1.jpeg)
 
-![](Screenshots/ss62.jpeg)
+![](Screenshots/s2.jpeg)
 
-![](Screenshots/ss13.jpeg)
+![](Screenshots/s3.jpeg)
 
-![](Screenshots/ss44.jpeg)
+![](Screenshots/s4.jpeg)
 
-![](Screenshots/ss35.jpeg)
+![](Screenshots/s5.jpeg)
 
-![](Screenshots/ss26.jpeg)
+![](Screenshots/s6.jpeg)
+
+![](Screenshots/s7.jpeg)
+
+![](Screenshots/s8.jpeg)
